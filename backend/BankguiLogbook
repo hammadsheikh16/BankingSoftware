@@ -1,0 +1,25 @@
+Account Information: 
+
+Customer_accounts: DONE
+ID	password(hashed)	    balance
+
+1	good			        400
+2 	Percy			        700
+3	banana			        350
+4 	rice			        170
+
+
+Employees:
+ID	username		        password(hashed)
+
+1	bob			            password1
+2	rob			            password2
+3	jerry			        password3
+4	berry			        password4
+
+
+Manager:
+ID  username			    password(hashed)
+
+1   Percy				    cats
+
